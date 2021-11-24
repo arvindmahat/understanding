@@ -2,3 +2,6 @@ This is the main code where we start the application
 
 def feature1():
    pass
+
+def get_username():
+    pass
