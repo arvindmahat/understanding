@@ -11,3 +11,6 @@ def feature1():
       
 def get_username():
     pass
+
+def set_user_credentials(name, password):
+     pass
