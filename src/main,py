@@ -5,3 +5,6 @@ def feature1():
 
    def login_()
       pass
+
+ def logout_()
+      Pass
